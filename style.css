@@ -1,0 +1,16 @@
+body{
+
+    background-color: azure;
+    text-align: center;
+    color: brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p2{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+}
